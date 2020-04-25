@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc3c36543a9839b4ba015c417ce8b6a0, type: 3}
+  m_Name: Techno
+  m_EditorClassIdentifier: 
+  _DanceGenre: Techno
+  _GenreID: 1
+  _Dances:
+  - _Dance: Breakdance_Ready
+    _Clip: {fileID: -203655887218126122, guid: 666a6e4d3f6d2344782eb1e88dc62373, type: 3}
+    Bmp: 107
+    Length: 63
+  - _Dance: Rumba
+    _Clip: {fileID: -203655887218126122, guid: 0565de78af87250419f3f91455d521cf, type: 3}
+    Bmp: 182
+    Length: 71
+  - _Dance: Salsa
+    _Clip: {fileID: -4335363433610370298, guid: 4166f8bf22b180c42b50798dd37419fd,
+      type: 3}
+    Bmp: 128
+    Length: 645
+  - _Dance: Salsa
+    _Clip: {fileID: -4335363433610370298, guid: 2a24a4964cf671f4a9d1cdd8de803381,
+      type: 3}
+    Bmp: 122
+    Length: 569
+  - _Dance: Salsa
+    _Clip: {fileID: -4335363433610370298, guid: 7b5d03db9e9012940951186b5e523045,
+      type: 3}
+    Bmp: 110
+    Length: 68
+  - _Dance: Salsa
+    _Clip: {fileID: -4335363433610370298, guid: f2be33e5d3d09ea45873f8d11a69f9da,
+      type: 3}
+    Bmp: 103
+    Length: 73
+  - _Dance: Salsa
+    _Clip: {fileID: -4335363433610370298, guid: de3eacb9150dff743a9bdea801956041,
+      type: 3}
+    Bmp: 118
+    Length: 841
+  - _Dance: Samba
+    _Clip: {fileID: 6718105650900172366, guid: 1301356d685196f41a19654fe4f60e9c, type: 3}
+    Bmp: 118
+    Length: 820
+  - _Dance: Samba
+    _Clip: {fileID: 6718105650900172366, guid: b10cfe5dfc1ffc044a7160c75d18a6b1, type: 3}
+    Bmp: 129
+    Length: 716
+  - _Dance: Bellydance
+    _Clip: {fileID: -203655887218126122, guid: aa9a93793262cdd40a5e7800175e096c, type: 3}
+    Bmp: 109
+    Length: 588
+  - _Dance: Bellydance
+    _Clip: {fileID: -203655887218126122, guid: 4352f749346099349a555713110332f4, type: 3}
+    Bmp: 110
+    Length: 380
+  - _Dance: Running man
+    _Clip: {fileID: -203655887218126122, guid: d51f3ff2080e23e448bdf1b99ad51ebc, type: 3}
+    Bmp: 178
+    Length: 325
+  - _Dance: LeanLow Arms
+    _Clip: {fileID: -203655887218126122, guid: 34f5e94b438034249a70a672d8a09441, type: 3}
+    Bmp: 116
+    Length: 243
+  - _Dance: Samba
+    _Clip: {fileID: -203655887218126122, guid: 8c253c57bba42544d8e51dfe5621bfaf, type: 3}
+    Bmp: 122
+    Length: 835
+  - _Dance: HouseDance
+    _Clip: {fileID: -6737003358287050783, guid: 266f3dda25c7f45448ea3ffbb0168ef7,
+      type: 3}
+    Bmp: 130
+    Length: 640
+  - _Dance: HouseDance
+    _Clip: {fileID: -203655887218126122, guid: 5b66a4ad4e857cb479c19e84523ec05e, type: 3}
+    Bmp: 123
+    Length: 785
+  - _Dance: Jazz
+    _Clip: {fileID: -203655887218126122, guid: 4eb8744ab4a792e4795109385b3de3b7, type: 3}
+    Bmp: 112
+    Length: 70
+  - _Dance: Jazz
+    _Clip: {fileID: -168954628985790747, guid: bff86cb7d58a80749af0c72d6652311d, type: 3}
+    Bmp: 128
+    Length: 61

@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc3c36543a9839b4ba015c417ce8b6a0, type: 3}
+  m_Name: HipHop
+  m_EditorClassIdentifier: 
+  _DanceGenre: HipHop
+  _GenreID: 2
+  _Dances:
+  - _Dance: Breakdance_Ready
+    _Clip: {fileID: -203655887218126122, guid: 666a6e4d3f6d2344782eb1e88dc62373, type: 3}
+    Bmp: 107
+    Length: 63
+  - _Dance: Breakdance_UpRock
+    _Clip: {fileID: -203655887218126122, guid: aa6d6f87779fc1c42af7968c931140e4, type: 3}
+    Bmp: 124
+    Length: 63
+  - _Dance: Brooklyn_UpRock
+    _Clip: {fileID: -203655887218126122, guid: be60988d64ce83e4f803b8be73515df7, type: 3}
+    Bmp: 143
+    Length: 145
+  - _Dance: Twerk
+    _Clip: {fileID: -203655887218126122, guid: 1bc7b20d89b915a47a1855cb4ad0ce88, type: 3}
+    Bmp: 163
+    Length: 456
+  - _Dance: Arms
+    _Clip: {fileID: -203655887218126122, guid: 1f5f4f0e440e47143ab2fd519baa0173, type: 3}
+    Bmp: 110
+    Length: 660
+  - _Dance: Bboy
+    _Clip: {fileID: -203655887218126122, guid: 1bb2da513e8f61d479cb97aa1c251bbc, type: 3}
+    Bmp: 134
+    Length: 68
+  - _Dance: Dance
+    _Clip: {fileID: 5279350218066168601, guid: d42fd8620de22ef48b4652a37951fe47, type: 3}
+    Bmp: 138
+    Length: 488
+  - _Dance: Running man
+    _Clip: {fileID: -203655887218126122, guid: d51f3ff2080e23e448bdf1b99ad51ebc, type: 3}
+    Bmp: 178
+    Length: 325
+  - _Dance: LeanLow Arms
+    _Clip: {fileID: -203655887218126122, guid: 34f5e94b438034249a70a672d8a09441, type: 3}
+    Bmp: 116
+    Length: 243
+  - _Dance: Hip Hop
+    _Clip: {fileID: -6508319523170976072, guid: 56efa593079b65c4f8077395a0cadc1d,
+      type: 3}
+    Bmp: 112
+    Length: 459
+  - _Dance: Hip Hop
+    _Clip: {fileID: -6508319523170976072, guid: da0117b0a98785e4e86a44c34ad2096d,
+      type: 3}
+    Bmp: 147
+    Length: 142
+  - _Dance: Hip Hop
+    _Clip: {fileID: -6508319523170976072, guid: 2509360189304d442bc62c20381919b5,
+      type: 3}
+    Bmp: 146
+    Length: 123
+  - _Dance: Hip Hop
+    _Clip: {fileID: -6508319523170976072, guid: 80ca28e1018979a4992cb8b5c5b32c93,
+      type: 3}
+    Bmp: 166
+    Length: 557
+  - _Dance: Hip Hop
+    _Clip: {fileID: -6508319523170976072, guid: 80ca28e1018979a4992cb8b5c5b32c93,
+      type: 3}
+    Bmp: 128
+    Length: 156
+  - _Dance: arms
+    _Clip: {fileID: -6508319523170976072, guid: fd4a338a89b26fd40adba80a60cf11b5,
+      type: 3}
+    Bmp: 166
+    Length: 101
+  - _Dance: side step
+    _Clip: {fileID: -6508319523170976072, guid: 93842634802d1484fb5692845275e69d,
+      type: 3}
+    Bmp: 114
+    Length: 134
+  - _Dance: hip hop
+    _Clip: {fileID: -6508319523170976072, guid: 38a2f050db4ff454fa0f3cbf1290aabc,
+      type: 3}
+    Bmp: 193
+    Length: 469
+  - _Dance: hip hop
+    _Clip: {fileID: -6508319523170976072, guid: 831b39046e673cb4186578f8ce1456a8,
+      type: 3}
+    Bmp: 158
+    Length: 413
+  - _Dance: hip hop
+    _Clip: {fileID: -6508319523170976072, guid: deb9a4133a6e6fd4b9b8a5e09fd0e122,
+      type: 3}
+    Bmp: 149
+    Length: 409
+  - _Dance: hip hop
+    _Clip: {fileID: -6508319523170976072, guid: d89a080f823eddd43ac089393e42e703,
+      type: 3}
+    Bmp: 120
+    Length: 359
+  - _Dance: hip hop
+    _Clip: {fileID: -6508319523170976072, guid: 46b90f7bfb76b944eb37d66dd6fae768,
+      type: 3}
+    Bmp: 138
+    Length: 190
+  - _Dance: hip hop
+    _Clip: {fileID: -203655887218126122, guid: 4aa0150f24fea68408e1f2588a175cbf, type: 3}
+    Bmp: 112
+    Length: 516
+  - _Dance: hip hop
+    _Clip: {fileID: -6737003358287050783, guid: e710c5dc230e458498be336c5283f0c7,
+      type: 3}
+    Bmp: 104
+    Length: 594
+  - _Dance: HouseDance
+    _Clip: {fileID: -6737003358287050783, guid: 266f3dda25c7f45448ea3ffbb0168ef7,
+      type: 3}
+    Bmp: 130
+    Length: 640
+  - _Dance: Robot
+    _Clip: {fileID: -203655887218126122, guid: 76a0f28c7bb9b144fa7ddb9c782dce7d, type: 3}
+    Bmp: 96
+    Length: 462
+  - _Dance: Wave
+    _Clip: {fileID: -203655887218126122, guid: eb680f951442fc64eb19fa87e6579ab9, type: 3}
+    Bmp: 139
+    Length: 479

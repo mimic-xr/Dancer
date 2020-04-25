@@ -1,0 +1,4 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.0b1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.0b1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileRayTracingShader
+  api=4 insize=5284 outsize=21028 ok=1
